@@ -3,3 +3,5 @@
 Name: Collins Uka
 Role: Student
 Bio: i am learning git and github !
+Hobbies: gaming, pool, reading and coding
+Fun facts: the fastest way to my brain is through my eyes and ears.
